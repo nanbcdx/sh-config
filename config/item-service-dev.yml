@@ -28,11 +28,12 @@ mybatis-plus:
   - classpath:/mybatis/mapper/*.xml
   type-aliases-package: cn.tedu.sh.pojo
   
-#management:
-#  endpoints:
-#    web:
-#      exposure:
-#        include: refresh
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - refresh
   
 sp:
   user-service:
