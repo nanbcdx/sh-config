@@ -55,7 +55,7 @@ management:
         include: hystrix.stream
         
 person:
-  name: www
+  name: 王成www
   age: 20
           
           
