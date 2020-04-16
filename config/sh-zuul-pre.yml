@@ -1,7 +1,6 @@
 server:
   port: 3050
   
-  
 spring:
   application:
     name: sh-zuul
@@ -54,6 +53,10 @@ management:
     web:
       exposure:
         include: hystrix.stream
+        
+person:
+  name: www
+  age: 20
           
           
         
