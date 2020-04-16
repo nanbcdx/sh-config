@@ -1,5 +1,5 @@
 server:
-  port: 3050
+  port: 2050
   
   
 spring:
