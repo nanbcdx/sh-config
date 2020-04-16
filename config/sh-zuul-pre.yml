@@ -55,7 +55,7 @@ management:
         include: hystrix.stream
         
 person:
-  name: 王成www
+  name: 黄承志
   age: 20
           
           
